@@ -1,1 +1,1 @@
-worker: python costi.py
+worker: python COSTI MIO.py
